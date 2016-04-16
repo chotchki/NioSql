@@ -1,0 +1,9 @@
+{
+	"name": "NioSql",
+	"version": "0.0.1",
+	"homepage": "https://github.com/chotchki/NioSql",
+	"license": "ASLv2",
+	"devDependencies": {
+		"webpack": "~1.13.0"
+	}
+}
